@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+     background-color: aliceblue; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+body{
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+h1{
+    font-family: "Sacramento", cursive;
+    font-size: 70px;
+    text-align: center;
+    color: #C5BAFF;
+}
+h2{
+    font-family: sans-serif;
+     color: #C5BAFF;
+}
+h3{
+}
+.cloud-1{
+  position: relative;
+  left: 150px;
+}
+.cloud-2{
+    position: absolute;
+    top: 360px;
+    left: 380px;
+}
+.cloud{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    width: 170px;
+    height: 90px;
+}
+.mauntain{
+    position: relative;
+     padding-top: 105px;
+    left:50px;
+}
+
+.top-container{
+    height: 100vh;
+    position:relative;
+    
+   }
+.middle-container{
+    position: relative;
+    left: 430px;
+    margin-top: 20px;
+    width: 100vh;padding-bottom: 20px;
+   
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.middle-container img{
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+.row-skill img{
+    width: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    float:right;
+}
+.bottom-container{
+   
+}
+
